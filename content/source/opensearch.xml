@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>registry.terraform.io Modules</ShortName>
+    <Description>Terraform public registry Module search</Description>
+    <InputEncoding>UTF-8</InputEncoding>
+    <Image height="16" width="16" type="image/png">https://registry.terraform.io/images/favicons/favicon-16x16.png</Image>
+    <Url type="text/html" template="https://registry.terraform.io/search/modules?q={searchTerms}"/>
+</OpenSearchDescription>
